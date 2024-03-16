@@ -32,11 +32,6 @@
 			<version>2.13.0</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.qspiders</groupId>
-			<artifactId>Maven_Demo</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 		<dependency>
 			<groupId>org.apache.poi</groupId>
